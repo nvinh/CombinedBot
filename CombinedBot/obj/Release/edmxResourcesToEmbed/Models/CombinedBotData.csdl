@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CombinedBotDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="MessageLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Channel" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Created" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Message" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="CombinedBotDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="MessageLogs" EntityType="Self.MessageLog" />
+    <EntitySet Name="Vehicles" EntityType="CombinedBotDBModel.Vehicle" />
+  </EntityContainer>
+  <EntityType Name="Vehicle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="VehicleName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Capacity" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Branch" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Year" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Image" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Roaster" Type="Boolean" />
+  </EntityType>
+</Schema>

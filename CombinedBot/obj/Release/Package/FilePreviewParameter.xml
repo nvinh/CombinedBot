@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="combinedbot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^f:\\MSA\\MSA\ 2016\\Vinh-Bot-Apps\\CombinedBot\\CombinedBot\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^f:\\MSA\\MSA\ 2016\\Vinh-Bot-Apps\\CombinedBot\\CombinedBot\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="CombinedBotDBEntities-Web.config Connection String" description="" value="metadata=res://*/Models.CombinedBotData.csdl|res://*/Models.CombinedBotData.ssdl|res://*/Models.CombinedBotData.msl;provider=System.Data.SqlClient;provider connection string=&quot;server=tcp:combinedbotserver.database.windows.net,1433;initial catalog=CombinedBotDB;persist security info=False;user id={your_username};password={your_password};multipleactiveresultsets=False;encrypt=True;trustservercertificate=False;connection timeout=30;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="f:\\MSA\\MSA\ 2016\\Vinh-Bot-Apps\\CombinedBot\\CombinedBot\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CombinedBotDBEntities']/@connectionString" />
+  </parameter>
+</parameters>

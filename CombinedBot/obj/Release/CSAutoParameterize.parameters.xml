@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CombinedBotDBEntities-Web.config Connection String" description="CombinedBotDBEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.CombinedBotData.csdl|res://*/Models.CombinedBotData.ssdl|res://*/Models.CombinedBotData.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\CombinedBotDB.mdf;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="f:\\MSA\\MSA\ 2016\\Vinh-Bot-Apps\\CombinedBot\\CombinedBot\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CombinedBotDBEntities']/@connectionString" />
+  </parameter>
+</parameters>

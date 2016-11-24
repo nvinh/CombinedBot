@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CombinedBotDBModelStoreContainer" CdmEntityContainer="CombinedBotDBEntities">
+    <EntitySetMapping Name="MessageLogs">
+      <EntityTypeMapping TypeName="CombinedBotDBModel.MessageLog">
+        <MappingFragment StoreEntitySet="MessageLog">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Channel" ColumnName="Channel" />
+          <ScalarProperty Name="Created" ColumnName="Created" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vehicles">
+      <EntityTypeMapping TypeName="CombinedBotDBModel.Vehicle">
+        <MappingFragment StoreEntitySet="Vehicles">
+          <ScalarProperty Name="Roaster" ColumnName="Roaster" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Branch" ColumnName="Branch" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Capacity" ColumnName="Capacity" />
+          <ScalarProperty Name="VehicleName" ColumnName="VehicleName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

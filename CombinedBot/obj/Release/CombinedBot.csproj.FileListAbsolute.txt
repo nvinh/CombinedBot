@@ -1,0 +1,81 @@
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Bot Application1.dll.config
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Bot Application1.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Bot Application1.pdb
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Autofac.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Chronic.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.Bot.Builder.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.Bot.Connector.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.Rest.ClientRuntime.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.WindowsAzure.Configuration.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Newtonsoft.Json.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.IdentityModel.Tokens.Jwt.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.Net.Http.Formatting.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.Web.Http.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.Web.Http.WebHost.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Autofac.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.Bot.Builder.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.Bot.Connector.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.Rest.ClientRuntime.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Microsoft.WindowsAzure.Configuration.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\Newtonsoft.Json.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.IdentityModel.Tokens.Jwt.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.Net.Http.Formatting.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.Web.Http.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\System.Web.Http.WebHost.xml
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\en\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\es\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\obj\Release\Bot Application1.dll
+f:\Vinh\MSA\MSA-2016\Phase 2 Projects\CombinedBot\CombinedBot\obj\Release\Bot Application1.pdb
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Bot Application1.dll.config
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Bot Application1.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Bot Application1.pdb
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Autofac.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Chronic.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\EntityFramework.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\EntityFramework.SqlServer.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.Bot.Builder.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.Bot.Connector.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.Rest.ClientRuntime.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.WindowsAzure.Configuration.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Newtonsoft.Json.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.IdentityModel.Tokens.Jwt.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.Net.Http.Formatting.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.Web.Http.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.Web.Http.WebHost.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Autofac.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\EntityFramework.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\EntityFramework.SqlServer.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.Bot.Builder.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.Bot.Connector.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.Rest.ClientRuntime.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Microsoft.WindowsAzure.Configuration.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\Newtonsoft.Json.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.IdentityModel.Tokens.Jwt.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.Net.Http.Formatting.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.Web.Http.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\System.Web.Http.WebHost.xml
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\en\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\es\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\obj\Release\Bot Application1.dll
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\obj\Release\Bot Application1.pdb
+f:\MSA\MSA 2016\Vinh-Bot-Apps\CombinedBot\CombinedBot\obj\Release\CombinedBot.csprojResolveAssemblyReference.cache
